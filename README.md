@@ -1,13 +1,13 @@
-# Project
-Counted provides a concise and user-friendly mobile solution that enables newcomers to plan, track and evaluate precise nutritional data with a specific pre-determined fitness goal. 
-Precise nutritional datat is defined by the per-serving information for any item of food, listed as Energy, Protein, Fats and Carbs.
+# Main
+<img  alt="Visual Studio Code"  src="Main.png" style="padding-right:10px;" /> &nbsp;     
 
-# Login Page
+# Trending
 
-Initial screen asking for user email and case sensitive password. Firebase authenticated.  &nbsp;  
-&nbsp;  
+<img  alt="Visual Studio Code"  src="Trending.png" style="padding-right:10px;" /> &nbsp;     
 
+# Details
 
+<img  alt="Visual Studio Code"  src="Bitcoin.png" style="padding-right:10px;" /> &nbsp;     
 
 
 ### Resources Used in This Project
