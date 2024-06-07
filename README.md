@@ -10,6 +10,13 @@
 <img  alt="Visual Studio Code"  src="Bitcoin.png" style="padding-right:10px;" /> &nbsp;     
 
 
+
+
+## RUN
+Clone folder and $npm start to compile the environment in a browser
+
+
+
 ### Resources Used in This Project
 
 - Fonts from https://fonts.google.com/ <br />
